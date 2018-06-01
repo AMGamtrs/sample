@@ -4,5 +4,5 @@ end
 
 
 puts "hogehoge"
-
+puts "fugafuga"
 hello
